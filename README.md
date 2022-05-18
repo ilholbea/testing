@@ -1,3 +1,3 @@
 # testing
 
-Simple React project unit-tested with enzyme.
+Simple React project tested with enzyme.
